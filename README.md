@@ -11,7 +11,7 @@ This Power BI dashboard provides an interactive summary of real estate sales per
 
 | Dashboard Overview |
 |--------------------|
-| ![Dashboard Screenshot](./image.png) |
+| ![Dashboard Screenshot](https://github.com/OmarAboElnaga/Real-State-PowerBI-Dashboard/blob/main/Screenshot%202025-04-14%20005102.png) |
 
 ---
 ## 🛠️ Steps Followed
@@ -51,8 +51,10 @@ This Power BI dashboard provides an interactive summary of real estate sales per
    - **Total Cost:** 157M
 
 2. **Property Type Analysis**
-   - **3-Bedroom properties** bring in the highest revenue (117M) and strong profit (32M).
-   - **2-Bedroom properties** show the best profit-to-revenue ratio (40M profit from 83M revenue).
+   - **3-Bedroom properties** bring in the highest revenue (117M) and strong profit (32M)-> Very high cost.
+   - **2-Bedroom properties** bring in the highest Profit (42M) and revenue (83M) (Mid cost).
+   - **1-Bedroom properties** bring in good profit (23M) comparing to its revenue(52M) (Mid cost).
+
 
 3. **City-wise Performance**
    - **Achimota** is the top-performing city (83M revenue), followed closely by **Oyarifa** and **East Legon Hills**.
@@ -75,11 +77,10 @@ This Power BI dashboard provides an interactive summary of real estate sales per
 
 ## ✅ Recommendations
 
-- **Boost Investment in 3-Bedroom Properties:** Highest ROI and popularity suggest more listings or developments in this segment.
+- **Boost Investment in 2-Bedroom and 1-Bedroom Properties:** Highest ROI and popularity suggest more listings or developments in this segment.
 - **Focus on Low-Performing Cities:** Investigate Dodowa for local challenges, and develop targeted marketing or property upgrades.
 - **Salesperson Training:** Encourage underperformers like Tulika and Charles through coaching and performance incentives.
-- **Capitalize on Q4 Trend:** Consider running promotions or scaling operations in the final months of the year to leverage higher demand.
-- **Optimize Costs:** Since costs are relatively high compared to profit, identify areas where operations can be more efficient.
+- **Optimize Costs:** Since the cost to revenue ratio associated with 3-Bedroom properties are significantly higher than those of other property types, it's important to identify opportunities to streamline operations and improve cost-efficiency.
 
 ---
 
